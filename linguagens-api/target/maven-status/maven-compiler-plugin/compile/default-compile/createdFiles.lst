@@ -1,0 +1,4 @@
+com\example\kennedynol\linguagens\api\LinguagemRepository.class
+com\example\kennedynol\linguagens\api\LinguagensApiApplication.class
+com\example\kennedynol\linguagens\api\LinguagemController.class
+com\example\kennedynol\linguagens\api\Linguagem.class
